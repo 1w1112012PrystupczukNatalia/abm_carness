@@ -1,0 +1,10 @@
+C:\Users\Global Insumos\source\repos\abm carness\bin\Debug\abm carness.exe.config
+C:\Users\Global Insumos\source\repos\abm carness\bin\Debug\abm carness.exe
+C:\Users\Global Insumos\source\repos\abm carness\bin\Debug\abm carness.pdb
+C:\Users\Global Insumos\source\repos\abm carness\obj\Debug\abm carness.csprojAssemblyReference.cache
+C:\Users\Global Insumos\source\repos\abm carness\obj\Debug\abm_carness.Form1.resources
+C:\Users\Global Insumos\source\repos\abm carness\obj\Debug\abm_carness.Properties.Resources.resources
+C:\Users\Global Insumos\source\repos\abm carness\obj\Debug\abm carness.csproj.GenerateResource.cache
+C:\Users\Global Insumos\source\repos\abm carness\obj\Debug\abm carness.csproj.CoreCompileInputs.cache
+C:\Users\Global Insumos\source\repos\abm carness\obj\Debug\abm carness.exe
+C:\Users\Global Insumos\source\repos\abm carness\obj\Debug\abm carness.pdb
